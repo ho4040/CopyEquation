@@ -11,7 +11,7 @@ If you're using Firefox visit https://addons.mozilla.org/addon/copyequation/. It
 Open your terminal and run the following command to clone the repository:
 
 ```bash
-git clone https://github.com/Foxxey/ChatGPT-LaTeX-MathML-Copy.git
+git clone git@github.com:ho4040/CopyEquation.git
 ```
 
 ### Step 2: Navigate to the Extension Page
